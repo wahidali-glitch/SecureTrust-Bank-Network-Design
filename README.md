@@ -1,6 +1,6 @@
 # 🏦 SecureTrust Bank Network Design and Simulation
 
-> **Cisco Packet Tracer | SZABIST Islamabad | CNDC Lab Project**
+> **Cisco Packet Tracer
 
 ![Topology](topology.png)
 
@@ -27,11 +27,6 @@
 This project presents the **design and simulation of a secure enterprise banking network** for **SecureTrust Bank** using Cisco Packet Tracer. The network covers a Head Office with multiple departments, a centralized server VLAN, and two remote ATM branch networks — all interconnected and secured with industry-standard networking techniques.
 
 | Detail | Info |
-|---|---|
-| **Institution** | Shaheed Zulfikar Ali Bhutto Institute of Science & Technology (SZABIST-ISB) |
-| **Course** | CNDC Lab |
-| **Instructor** | Sir Muhammad Farooq |
-| **Student** | Wahid Ali |
 | **Reg. No.** | 2312186 |
 | **Tool** | Cisco Packet Tracer |
 
@@ -205,10 +200,7 @@ All major components were tested and verified:
 ## 👨‍💻 Author
 
 **Wahid Ali**  
-BS Computer Science — Semester 6  
-SZABIST Islamabad  
-Reg. No: 2312186
 
 ---
 
-> *This project was developed as part of the CNDC Lab course at SZABIST Islamabad. All configurations were simulated in Cisco Packet Tracer for educational purposes.*
+
